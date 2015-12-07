@@ -1,11 +1,13 @@
 div#container {
     text-align: center;
 }
-#container h1 a {
+  a {
   text-decoration: none;
+  color: #000;
 }
-#container h1 a:hover {
+  a:hover {
   color: gray;
+  
 }
 section {
   width: 60%;
