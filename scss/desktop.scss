@@ -1,0 +1,31 @@
+div#container {
+    text-align: center;
+}
+section {
+  width: 60%;
+  margin: 20px auto;
+  background: gray;
+  overflow: auto;
+  padding: 2em;
+}
+footer p {
+  text-align: center;
+}
+#submit {
+  background: #fff;
+  color:#000;
+  padding: .5em .7em;
+  border: none;
+}
+input {
+margin-right: .3em;
+}
+
+
+ // media queries
+
+ @media(max-width: 450px){
+  h3 {
+    font-size: 1em;
+  }
+}
