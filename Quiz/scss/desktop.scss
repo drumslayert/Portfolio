@@ -1,6 +1,12 @@
 div#container {
     text-align: center;
 }
+#container h1 a {
+  text-decoration: none;
+}
+#container h1 a:hover {
+  color: gray;
+}
 section {
   width: 60%;
   margin: 20px auto;
